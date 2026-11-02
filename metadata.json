@@ -1,0 +1,6 @@
+{
+  "name": "Atelier — Creative Director & Brand Brief Studio",
+  "description": "Transform unstructured client ideas into comprehensive, high-contrast minimalist creative briefs with tactile aesthetics and presentation decks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
